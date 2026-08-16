@@ -1,6 +1,7 @@
 <?php
 
 namespace App\Providers;
+use Illuminate\Support\Facades\URL;
 
 use App\Models\KontakDesa;
 use App\Models\Kunjungan;
@@ -37,5 +38,7 @@ class AppServiceProvider extends ServiceProvider
             $view->with('kontakFooter', $kontakFooter);
             $view->with('statKunjungan', $statKunjungan);
         });
+
+        if ($this->app->environment('production')) { URL::forceScheme('https'); }
     }
 }
