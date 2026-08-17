@@ -1,6 +1,6 @@
 @extends('layouts.app')
 
-@section('title', 'Dashboard - Website Profil Desa Duwet')
+@section('title', 'Dashboard - Website Desa Duwet')
 
 @section('slider')
     <div class="hero">
