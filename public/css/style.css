@@ -1247,7 +1247,16 @@ table tr:nth-child(even) {
     }
 
     .page-hero-header .site-title {
-        font-size: 13px;
+    color: #ffffff;
+    font-weight: 700;
+    font-size: 15px;
+    }
+
+    .page-hero-header .site-title small {
+        display: block;
+        font-weight: 400;
+        font-size: 11px;
+        opacity: 0.85;
     }
 
     .page-hero-header .site-nav {
