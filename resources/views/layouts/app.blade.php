@@ -15,7 +15,7 @@
             <div class="page-hero-header">
                 <div class="logo-area">
                     <img src="{{ asset('images/logo-desa.png') }}" alt="Logo Desa Duwet">
-                    <span class="site-title">Website Profil Desa Duwet</span>
+                    <span class="site-title">Website Desa Duwet</span>
                 </div>
 
                 <nav class="site-nav" id="siteNav">
