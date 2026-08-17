@@ -78,7 +78,7 @@
                 <div class="footer-logo">
                     <img src="{{ asset('images/logo-desa.png') }}" alt="Logo Desa Duwet">
                     <div>
-                        <strong>Website Profil Desa Duwet</strong>
+                        <strong>Website Desa Duwet</strong>
                         <p>Kecamatan Tumpang, Kabupaten Malang</p>
                     </div>
                 </div>

@@ -1,6 +1,6 @@
 @extends('layouts.app')
 
-@section('title', 'Peta Desa - Website Profil Desa Duwet')
+@section('title', 'Peta Desa - Website Desa Duwet')
 
 @section('spanduk')
     <h1>Peta Desa</h1>

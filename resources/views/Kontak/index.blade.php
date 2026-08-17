@@ -1,6 +1,6 @@
 @extends('layouts.app')
 
-@section('title', 'Kontak Desa - Website Profil Desa Duwet')
+@section('title', 'Kontak Desa - Website Desa Duwet')
 
 @section('spanduk')
     <h1>Kontak Desa</h1>
