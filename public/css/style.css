@@ -1247,12 +1247,8 @@ table tr:nth-child(even) {
     }
 
     .page-hero-header .site-title {
-    color: #ffffff;
-    font-weight: 700;
-    font-size: 15px;
+        font-size: 13px;
     }
-
-    
 
     .page-hero-header .site-nav {
         position: absolute;
